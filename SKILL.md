@@ -1,5 +1,5 @@
 ---
-name: claude_skill_cpp
+name: claude-skill-cpp
 description: C++20 coding guidelines and conventions. Use when writing, reviewing, or refactoring C++ code. Covers naming, formatting, resource management, type safety, modern C++20 features, and design principles from the C++ Core Guidelines and Sean Parent's Better Code series.
 user-invokable: false
 ---
